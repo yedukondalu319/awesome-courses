@@ -17,6 +17,7 @@ List of free online programming/CS courses
 * [computerscienceforeveryone](http://www.computerscienceforeveryone.com/) computerscienceforeveryone.com
 * [coursera](https://www.coursera.org/) - coursera.org
 * [edx](https://www.edx.org/) - edx.org
+* [Simpliv](https://www.simpliv.com/) - simpliv.com
 * [iversity](https://iversity.org/) - iversity.org
 * [khanacademy](https://www.khanacademy.org/) - khanacademy.org
 * [openculture](http://www.openculture.com/computer_science_free_courses) - openculture.com/computer_science_free_courses
